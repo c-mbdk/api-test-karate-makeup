@@ -12,7 +12,9 @@ Specific values were included directly within the feature files. Given the benef
 1. Follow the instructions here on system pre-requisites: https://karatelabs.github.io/karate/#getting-started 
 2. Once complete, clone this repository or download the files
 3. To run all the tests for a given feature, click 'Run' at the top of the file. For example, to run all tests in the standard-api.feature file, click 'Run' at the top: 
-![Screenshot of feature file showing the Run link at the top](/feature-test-img.png?raw=true)
+
+    ![Screenshot of feature file showing the Run link at the top](/feature-test-img.png?raw=true)
 
 4. To run the test for a specific scenario, click 'Run' just above the 'Scenario' keyword. For example, to run the test that verifies the response body format is JSON, click 'Run' just above the Scenario:
-![Screenshot of feature file showing the Run link above a Scenario](/scenario-test-img.png?raw=true)
+
+    ![Screenshot of feature file showing the Run link above a Scenario](/scenario-test-img.png?raw=true)
